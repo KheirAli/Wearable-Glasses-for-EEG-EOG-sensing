@@ -22,9 +22,10 @@ The implementation phase demonstrates how the circuit was assembled and integrat
 
 <div align="center">
   <img src="../images/implementaion.png" alt="EEG Circuit Implementation" width="600"/>
+  *Figure: Implementation of the EEG circuit on the wearable system.*
 </div>
 
-*Figure: Implementation of the EEG circuit on the wearable system.*
+
 
 ---
 

@@ -10,9 +10,11 @@ Our circuit design focuses on amplifying and filtering the low-amplitude EEG and
 
 <div align="center">
   <img src="../images/circuit_design.png" alt="Circuit Design Schematic" width="600"/>
+
+  *Figure: Schematic of the EEG/EOG circuit design.*
 </div>
 
-*Figure: Schematic of the EEG/EOG circuit design.*
+
 
 ---
 
@@ -38,15 +40,23 @@ To evaluate our EEG circuit, we measured the alpha wave power when the subjectâ€
 
 <div align="center">
   <img src="../images/Alpha_wave_power.png" alt="Alpha Wave Power Analysis" width="600"/>
+
+
+  *Figure: Analysis of alpha wave power from EEG data.*
+  
 </div>
 
-*Figure: Analysis of alpha wave power from EEG data.*
+
 
 <div align="center">
   <img src="../images/spectrogram.png" alt="EEG Spectrogram" width="600"/>
+
+
+  *Figure: Spectrogram illustrating the frequency components during the test.*
+  
 </div>
 
-*Figure: Spectrogram illustrating the frequency components during the test.*
+
 
 ---
 
@@ -56,6 +66,12 @@ The EOG module captures the blink events by amplifying the bioelectric signals p
 
 <div align="center">
   <img src="../images/Blink_detection_via_EOG.png" alt="Blink Detection via EOG" width="600"/>
+
+
+
+  *Figure: Graph showing blink detection events using the EOG circuit.*
+
+  
 </div>
 
-*Figure: Graph showing blink detection events using the EOG circuit.*
+

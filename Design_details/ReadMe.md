@@ -9,7 +9,7 @@ This project aims to detect drowsiness and distraction in drivers using a wearab
 Our circuit design focuses on amplifying and filtering the low-amplitude EEG and EOG signals. The schematic shows how the AD623 instrumentation amplifier, Sallen-Key filters, and other conditioning circuits are connected.
 
 <div align="center">
-  <img src="./images/circuit_design.png" alt="Circuit Design Schematic" width="600"/>
+  <img src="Wearable-Glasses-for-EEG-EOG-sensing/images/circuit_design.png" alt="Circuit Design Schematic" width="600"/>
 </div>
 
 *Figure: Schematic of the EEG/EOG circuit design.*
@@ -21,7 +21,7 @@ Our circuit design focuses on amplifying and filtering the low-amplitude EEG and
 The implementation phase demonstrates how the circuit was assembled and integrated onto the wearable platform. This image shows the physical layout and connections of the EEG circuitry.
 
 <div align="center">
-  <img src="./images/implementaion.png" alt="EEG Circuit Implementation" width="600"/>
+  <img src="Wearable-Glasses-for-EEG-EOG-sensing/images/implementaion.png" alt="EEG Circuit Implementation" width="600"/>
 </div>
 
 *Figure: Implementation of the EEG circuit on the wearable system.*

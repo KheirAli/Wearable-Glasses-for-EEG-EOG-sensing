@@ -81,7 +81,7 @@ Our project leverages established physiological indicators (EEG alpha activity, 
   - Maintaining user comfort during prolonged use.
 - **Outcome:** The modified glasses platform successfully integrated the sensor array, demonstrating a viable form factor for wearable brain and eye monitoring.
 
-<p align="center">
+<p align="left">
   <img src="images/image.png" alt="Glasses_design" />
 </p>
 

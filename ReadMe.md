@@ -84,7 +84,7 @@ Our project leverages established physiological indicators (EEG alpha activity, 
 <p align="center">
   <img src="images/image.png" alt="Glasses_design" />
 </p>
-<!-- ![Glasses_design](images/image.png) -->
+
 ---
 
 ## Testing & Validation

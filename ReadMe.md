@@ -23,11 +23,11 @@ This repository contains the final project for ECE 4781/6781: Biomedical Instrum
 ## Executive Summary
 
 Drowsiness and distraction contribute significantly to fatal car crashes, resulting in over 11,000 deaths annually. Our proposed device uses a combination of physiological signals to detect early signs of driver drowsiness and distraction. By monitoring:
-- **Alpha waves** (8–12 Hz) via EEG, which increase during drowsy states,
+- **Alpha waves** Focus on alpha waves (8–12 Hz) via EEG, which increase during drowsy states and have an important role,
 - **Blink rate and duration** via EOG, and
 - **Head posture** via accelerometry,
 
-the system can alert the driver in real time. This wearable solution, integrated into eyeglasses, overcomes the impracticality of full EEG caps for everyday driving scenarios.
+the system can alert the driver in real-time. This wearable solution, integrated into eyeglasses, overcomes the impracticality of full EEG caps for everyday driving scenarios.
 
 ---
 
@@ -109,21 +109,7 @@ Our project leverages established physiological indicators (EEG alpha activity, 
 
 ---
 
-## Acknowledgements
 
-This project was developed through a collaboration among:
-- **School of Mechanical Engineering**
-- **School of Electrical and Computer Engineering**
-- **School of Biomedical Engineering**
-
-**Project Team:**
-- William Armentrout
-- Nicholas Harris
-- Aaron Huang
-- Alireza Kheirandish
-- Katherine Peterka
-
----
 
 ## References
 

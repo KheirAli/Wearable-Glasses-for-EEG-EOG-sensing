@@ -33,13 +33,13 @@ The implementation phase demonstrates how the circuit was assembled and integrat
 To evaluate our EEG circuit, we measured the alpha wave power when the subjectâ€™s eyes were closed versus open. The first image displays the measured alpha wave power, while the second image shows the spectrogram highlighting the frequency distribution.
 
 <div align="center">
-  <img src="images/Alpha_wave_power.png" alt="Alpha Wave Power Analysis" width="600"/>
+  <img src="../images/Alpha_wave_power.png" alt="Alpha Wave Power Analysis" width="600"/>
 </div>
 
 *Figure: Analysis of alpha wave power from EEG data.*
 
 <div align="center">
-  <img src="images/spectrogram.png" alt="EEG Spectrogram" width="600"/>
+  <img src="../images/spectrogram.png" alt="EEG Spectrogram" width="600"/>
 </div>
 
 *Figure: Spectrogram illustrating the frequency components during the test.*
@@ -51,7 +51,7 @@ To evaluate our EEG circuit, we measured the alpha wave power when the subjectâ€
 The EOG module captures the blink events by amplifying the bioelectric signals produced by the eyelid muscles. The designated image displays the blink detection graph, where distinct spikes correspond to individual blinks.
 
 <div align="center">
-  <img src="images/Blink_detection_via_EOG.png" alt="Blink Detection via EOG" width="600"/>
+  <img src="../images/Blink_detection_via_EOG.png" alt="Blink Detection via EOG" width="600"/>
 </div>
 
 *Figure: Graph showing blink detection events using the EOG circuit.*
